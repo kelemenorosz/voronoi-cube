@@ -1,0 +1,5 @@
+cbuild/
+media/
+*.exe
+*.cso
+*.sublime*
