@@ -3,3 +3,5 @@ media/
 *.exe
 *.cso
 *.sublime*
+.vs/
+out/
